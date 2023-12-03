@@ -6,6 +6,7 @@ print ("contactar hojalatero")
 print ("ir por el auto a zumpango")
 print ("los 2 cohes se desvielaron")
 print ("repara los 2 coches")
+print ("este hello 3 sera apara metas personales")
 
 
 
