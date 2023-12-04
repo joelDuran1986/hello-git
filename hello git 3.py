@@ -8,12 +8,7 @@ print ("los 2 cohes se desvielaron")
 print ("repara los 2 coches")
 print ("este hello 3 sera apara metas personales")
 print ("terminar el audio libro de habitos atomicos")
-<<<<<<< HEAD
 print ("update 10.0.0")
-=======
-print ("tambien podemos empezar a hacer ejercicio")
-
->>>>>>> login
 
 
 
