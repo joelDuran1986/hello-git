@@ -6,3 +6,4 @@ print ("lo que llevamos es repaso de la configuracion y comandos basicos para cr
 print ("tambien hemos aprendido algunos comandos basicos de Git")
 print ("update 10.0.0")
 print ("update 12.0.1")
+print ("update 12.0.2")
