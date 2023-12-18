@@ -7,3 +7,4 @@ avanzaste a print ("EN GITHUB update 13.0.0") sigue asi
 estas en la version print ("EN GITHUB update 13.0.0") sigue asi sigue avanzando
 
 print ("EN GITHUB update 13.0.2") esta costando aprender
+print ("EN GITHUB update 13.0.3") parese que ya se resolvio el problema, habra que ver si sincroniza con la arpeta PROYECT
