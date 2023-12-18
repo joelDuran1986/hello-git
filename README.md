@@ -9,3 +9,4 @@ print ("EN GITHUB update 13.0.3")
 print ("EN GITHUB update 13.0.4")
 print ("EN GITHUB update 13.1.0") mas pruebas sigue adelante
 print ("EN GITHUB update PROYECT 13.2.0") pruebas de sincronizacion
+print ("EN GITHUB update HELLO 13.2.0") PERFECTO JOEL SIGUE ASI SIGUE ASSIII
