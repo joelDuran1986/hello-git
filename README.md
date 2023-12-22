@@ -17,3 +17,4 @@ print ("EN GITHUB update HELLO 14.0.2") la verdad si hace mucho frio
 print ("EN GITHUB update HELLO 14.0.3") calcetines
 print ("EN GITHUB update HELLO 14.0.4") sigue adelante, hoy se desconfiguro pero estas aprendiendo
 print ("EN GITHUB update HELLO 14.0.5") GO!
+print ("EN GITHUB update PROYECT 14.0.6")
