@@ -19,3 +19,4 @@ print ("EN GITHUB update HELLO 14.0.4") sigue adelante, hoy se desconfiguro pero
 print ("EN GITHUB update HELLO 14.0.5") GO!
 print ("EN GITHUB update PROYECT 14.0.6")
 print ("EN GITHUB update HELLO 14.0.7") NOS QUEDAMOS DORMIDOS
+print ("EN GITHUB update HELLO 14.0.8") ya es año nuevo, bueno 10 de enero basicamente, creo que ya se me olvido todo, definitivamente hace daño dejarlo sn practicar.
